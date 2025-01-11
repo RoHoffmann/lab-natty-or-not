@@ -20,32 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Introdução à Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesta apresentação, exploraremos o fascinante mundo da Inteligência Artificial (IA), suas principais aplicações no mercado, os benefícios e desafios da sua adoção, além de discutir os próximos passos para sua jornada com IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma - https://gamma.app/pt-br
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O material foi elaborado e editado exclusivamente pelo aplicativo Gamma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um contexto inicial sobre o universo da IA, instigando a sua utilização para ampliar o conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Elaborar este e-book foi um primeiro passo, que abriu um horizonte de perspectivas muito grande em relação às ferramentas que utilizam IA.
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
